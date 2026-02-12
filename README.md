@@ -68,7 +68,7 @@ will be made publicly available in this repository.
 
 For questions regarding the manuscript or early collaboration inquiries, please contact:
 
-[Your Name / Email]
+[Zixuan Li 2293159762@qq.com]
 
 ---
 
